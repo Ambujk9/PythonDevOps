@@ -1,2 +1,2 @@
 #Hello world program
-print ("Hello Ambuj")
+print ("Hello " + input("What is your name?"))
